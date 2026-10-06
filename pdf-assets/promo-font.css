@@ -1,0 +1,4 @@
+@font-face{font-family:Pretendard;src:url('Pretendard-Regular.woff2') format('woff2');font-weight:400;font-style:normal;font-display:swap}
+@font-face{font-family:Pretendard;src:url('Pretendard-SemiBold.woff2') format('woff2');font-weight:600 900;font-style:normal;font-display:swap}
+.lihaon-pdf-promo,.lihaon-pdf-promo p,.lihaon-pdf-promo a,.lihaon-pdf-promo li,.lihaon-pdf-promo h3{font-family:Pretendard,Inter,'Segoe UI','Malgun Gothic','Apple SD Gothic Neo',sans-serif!important;letter-spacing:-.2px}
+.lihaon-pdf-promo p{margin:18px 0!important;line-height:1.85!important}.lihaon-pdf-promo h3{margin:30px 0 14px!important;font-weight:600!important}
